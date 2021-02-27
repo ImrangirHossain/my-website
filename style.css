@@ -2,3 +2,106 @@ body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
+p{
+    color: gray;
+    line-height: 1.5em;
+}
+.top-sec{
+    padding: 50px;
+   
+    height: 600px;
+}
+.backgound{
+    background-image: url("images/header-bg.png");
+    background-repeat:no-repeat;
+    background-position:left;
+    background-size:cover;
+}
+.left-sight{
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left: 2%;
+}
+.right-sight{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.right-sight img{
+    width: 100%;
+
+}
+.padding{
+    margin-top: 100px;
+    font-size: 40px;
+}
+.big-name{
+    font-size: 45px;
+    color: #EC4C7A;
+    font-weight: 700;
+}
+.button{
+    background-color: #EC4C79;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+.container{
+    padding: 0% 5%;
+}
+.container h2{
+    text-align: center;
+    font-size: 35px;
+}
+.work-image img{
+    width: 26%;
+    padding: 3%;
+}
+.work-sec{
+    padding-bottom: 100px;
+}
+.test-sec{
+    padding-bottom: 50px;
+}
+.client-testim{
+
+}
+.client-testim h3{
+    text-align: center;
+}
+.client-testim h4{
+    color:#3B3B3B
+}
+.client-testim p{
+    text-align: center;
+}
+.client-testim h4{
+    margin: auto;
+    text-align: center;
+    font-size: 18px;
+    width: 40%;
+    padding: 0% 5%;
+}
+.contact-sec p{
+    text-align: center;
+   
+    color:#fff;
+}
+.contact-sec {
+    padding: 20px 0px;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color:#fff;
+    background:#EC4C76;
+    width: 60%;
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+    padding: 75px 0px;
+}
